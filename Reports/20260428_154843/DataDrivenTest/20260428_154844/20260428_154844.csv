@@ -1,0 +1,56 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+DataDrivenTest,Chrome 147.0.0.0,,,28-04-2026 15:48:49,28-04-2026 15:49:44,55.416s,PASSED
+,,,,,,,
+Test Cases/Data Files,Chrome 147.0.0.0,,,28-04-2026 15:48:49,28-04-2026 15:49:00,10.822s,PASSED
+"openBrowser(""https://www.saucedemo.com/"")",Chrome 147.0.0.0,,,28-04-2026 15:48:49,28-04-2026 15:48:54,4.506s,PASSED
+"click(findTestObject(""Field Username""))",Chrome 147.0.0.0,,,28-04-2026 15:48:54,28-04-2026 15:48:56,2.143s,PASSED
+"setText(findTestObject(""Field Username""), Username)",Chrome 147.0.0.0,,,28-04-2026 15:48:56,28-04-2026 15:48:57,0.613s,PASSED
+"click(findTestObject(""Field Password""))",Chrome 147.0.0.0,,,28-04-2026 15:48:57,28-04-2026 15:48:57,0.327s,PASSED
+"setText(findTestObject(""Field Password""), Password)",Chrome 147.0.0.0,,,28-04-2026 15:48:57,28-04-2026 15:48:58,0.559s,PASSED
+delay(2),Chrome 147.0.0.0,,,28-04-2026 15:48:58,28-04-2026 15:49:00,2.044s,PASSED
+"click(findTestObject(""Button Login""))",Chrome 147.0.0.0,,,28-04-2026 15:49:00,28-04-2026 15:49:00,0.369s,PASSED
+,,,,,,,
+Test Cases/Data Files,Chrome 147.0.0.0,,,28-04-2026 15:49:00,28-04-2026 15:49:09,8.796s,PASSED
+"openBrowser(""https://www.saucedemo.com/"")",Chrome 147.0.0.0,,,28-04-2026 15:49:00,28-04-2026 15:49:03,3.004s,PASSED
+"click(findTestObject(""Field Username""))",Chrome 147.0.0.0,,,28-04-2026 15:49:03,28-04-2026 15:49:05,1.985s,PASSED
+"setText(findTestObject(""Field Username""), Username)",Chrome 147.0.0.0,,,28-04-2026 15:49:05,28-04-2026 15:49:06,0.574s,PASSED
+"click(findTestObject(""Field Password""))",Chrome 147.0.0.0,,,28-04-2026 15:49:06,28-04-2026 15:49:06,0.309s,PASSED
+"setText(findTestObject(""Field Password""), Password)",Chrome 147.0.0.0,,,28-04-2026 15:49:06,28-04-2026 15:49:06,0.536s,PASSED
+delay(2),Chrome 147.0.0.0,,,28-04-2026 15:49:06,28-04-2026 15:49:08,2.008s,PASSED
+"click(findTestObject(""Button Login""))",Chrome 147.0.0.0,,,28-04-2026 15:49:08,28-04-2026 15:49:09,0.336s,PASSED
+,,,,,,,
+Test Cases/Data Files,Chrome 147.0.0.0,,,28-04-2026 15:49:09,28-04-2026 15:49:17,8.329s,PASSED
+"openBrowser(""https://www.saucedemo.com/"")",Chrome 147.0.0.0,,,28-04-2026 15:49:09,28-04-2026 15:49:12,2.967s,PASSED
+"click(findTestObject(""Field Username""))",Chrome 147.0.0.0,,,28-04-2026 15:49:12,28-04-2026 15:49:13,1.626s,PASSED
+"setText(findTestObject(""Field Username""), Username)",Chrome 147.0.0.0,,,28-04-2026 15:49:13,28-04-2026 15:49:14,0.563s,PASSED
+"click(findTestObject(""Field Password""))",Chrome 147.0.0.0,,,28-04-2026 15:49:14,28-04-2026 15:49:14,0.318s,PASSED
+"setText(findTestObject(""Field Password""), Password)",Chrome 147.0.0.0,,,28-04-2026 15:49:14,28-04-2026 15:49:15,0.522s,PASSED
+delay(2),Chrome 147.0.0.0,,,28-04-2026 15:49:15,28-04-2026 15:49:17,2.006s,PASSED
+"click(findTestObject(""Button Login""))",Chrome 147.0.0.0,,,28-04-2026 15:49:17,28-04-2026 15:49:17,0.310s,PASSED
+,,,,,,,
+Test Cases/Data Files,Chrome 147.0.0.0,,,28-04-2026 15:49:17,28-04-2026 15:49:27,10.057s,PASSED
+"openBrowser(""https://www.saucedemo.com/"")",Chrome 147.0.0.0,,,28-04-2026 15:49:17,28-04-2026 15:49:20,3.176s,PASSED
+"click(findTestObject(""Field Username""))",Chrome 147.0.0.0,,,28-04-2026 15:49:20,28-04-2026 15:49:24,3.164s,PASSED
+"setText(findTestObject(""Field Username""), Username)",Chrome 147.0.0.0,,,28-04-2026 15:49:24,28-04-2026 15:49:24,0.564s,PASSED
+"click(findTestObject(""Field Password""))",Chrome 147.0.0.0,,,28-04-2026 15:49:24,28-04-2026 15:49:24,0.297s,PASSED
+"setText(findTestObject(""Field Password""), Password)",Chrome 147.0.0.0,,,28-04-2026 15:49:24,28-04-2026 15:49:25,0.524s,PASSED
+delay(2),Chrome 147.0.0.0,,,28-04-2026 15:49:25,28-04-2026 15:49:27,2.012s,PASSED
+"click(findTestObject(""Button Login""))",Chrome 147.0.0.0,,,28-04-2026 15:49:27,28-04-2026 15:49:27,0.305s,PASSED
+,,,,,,,
+Test Cases/Data Files,Chrome 147.0.0.0,,,28-04-2026 15:49:27,28-04-2026 15:49:36,8.542s,PASSED
+"openBrowser(""https://www.saucedemo.com/"")",Chrome 147.0.0.0,,,28-04-2026 15:49:27,28-04-2026 15:49:30,2.908s,PASSED
+"click(findTestObject(""Field Username""))",Chrome 147.0.0.0,,,28-04-2026 15:49:30,28-04-2026 15:49:32,1.926s,PASSED
+"setText(findTestObject(""Field Username""), Username)",Chrome 147.0.0.0,,,28-04-2026 15:49:32,28-04-2026 15:49:33,0.560s,PASSED
+"click(findTestObject(""Field Password""))",Chrome 147.0.0.0,,,28-04-2026 15:49:33,28-04-2026 15:49:33,0.289s,PASSED
+"setText(findTestObject(""Field Password""), Password)",Chrome 147.0.0.0,,,28-04-2026 15:49:33,28-04-2026 15:49:33,0.517s,PASSED
+delay(2),Chrome 147.0.0.0,,,28-04-2026 15:49:33,28-04-2026 15:49:36,2.013s,PASSED
+"click(findTestObject(""Button Login""))",Chrome 147.0.0.0,,,28-04-2026 15:49:36,28-04-2026 15:49:36,0.313s,PASSED
+,,,,,,,
+Test Cases/Data Files,Chrome 147.0.0.0,,,28-04-2026 15:49:36,28-04-2026 15:49:44,8.463s,PASSED
+"openBrowser(""https://www.saucedemo.com/"")",Chrome 147.0.0.0,,,28-04-2026 15:49:36,28-04-2026 15:49:39,2.994s,PASSED
+"click(findTestObject(""Field Username""))",Chrome 147.0.0.0,,,28-04-2026 15:49:39,28-04-2026 15:49:41,1.755s,PASSED
+"setText(findTestObject(""Field Username""), Username)",Chrome 147.0.0.0,,,28-04-2026 15:49:41,28-04-2026 15:49:41,0.561s,PASSED
+"click(findTestObject(""Field Password""))",Chrome 147.0.0.0,,,28-04-2026 15:49:41,28-04-2026 15:49:41,0.300s,PASSED
+"setText(findTestObject(""Field Password""), Password)",Chrome 147.0.0.0,,,28-04-2026 15:49:41,28-04-2026 15:49:42,0.519s,PASSED
+delay(2),Chrome 147.0.0.0,,,28-04-2026 15:49:42,28-04-2026 15:49:44,2.011s,PASSED
+"click(findTestObject(""Button Login""))",Chrome 147.0.0.0,,,28-04-2026 15:49:44,28-04-2026 15:49:44,0.309s,PASSED
